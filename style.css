@@ -9,13 +9,17 @@
     --Bege: #f1efe2;
 }
 
+section{
+    margin: 2vw;
+    background-color: var(--VerdeForte);
+
+}
 body{
+    background-image: url(img/textura.jpg);
     font-family:"Montserrat Alternates", sans-serif;;
     background-color: var(--VerdeForte);
 }
- header{
-    background-image: url(img/textura.jpg);
- }
+
 h3{
 font-size: 32px;
 padding: 2vw;
