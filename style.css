@@ -22,7 +22,7 @@ padding: 2vw;
 background-color: var(--VerdeFraco);
 color:var(--VerdeForte);
 text-align: center;
-border-radius: 10px;
+
 
 }
 
@@ -32,7 +32,7 @@ p{
     padding:2vw;
     font-size: 20px;
     text-align: justify;
-    border-radius: 10px;
+   
     background-color: var(--VerdeForte);
     font-weight: 400;
 
@@ -45,7 +45,7 @@ h4,h5{
     background-color: var(--VerdeFraco);
     color:var(--VerdeForte);
     text-align: center;
-    border-radius: 10px;
+ 
    
 
 
@@ -57,9 +57,9 @@ section{
 .cabecalho{
     height: 100vh;
     flex-direction: column;
-display: flex;
-align-items: center;
-justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
