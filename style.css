@@ -73,6 +73,8 @@ section{
     font-size: 56px;
 }
 .menu{
+    padding: 2vw;
+    font-size: 36px;
     width: 100vw;
     display: flex;
     gap: 2vw;
