@@ -4,21 +4,23 @@
 }
 
 :root{
-    --VerdeFote: #0F6939;
+    --VerdeForte: #0F6939;
     --VerdeFraco:#83C341 ;
     --Bege: #f1efe2;
 }
 
 body{
     font-family:"Montserrat Alternates", sans-serif;;
-    background-image: url(img/textura.jpg);
+    background-color: var(--VerdeForte);
 }
-
+ header{
+    background-image: url(img/textura.jpg);
+ }
 h3{
 font-size: 32px;
 padding: 2vw;
-background-color: var(--VerdeFote);
-color:var(--Bege);
+background-color: var(--VerdeFraco);
+color:var(--VerdeForte);
 text-align: center;
 
 }
@@ -53,4 +55,9 @@ justify-content: center;
 .nome{
     padding:0px;
     font-size: 56px;
+}
+.menu{
+    display: flex;
+    background-color: var(--VerdeFraco);
+    color: var(--VerdeForte);
 }
