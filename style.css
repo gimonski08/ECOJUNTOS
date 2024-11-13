@@ -90,4 +90,5 @@ section{
 }
 .menu_itens:hover{
     font-size:36px ;
+    color: var(--Bege)
 }
