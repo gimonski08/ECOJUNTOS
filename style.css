@@ -74,6 +74,7 @@ section{
 }
 .menu{
     display: flex;
+    gap: 2vw;
     background-color: var(--VerdeFraco);
     color: var(--VerdeForte);
 }
