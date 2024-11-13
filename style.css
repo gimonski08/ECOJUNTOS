@@ -4,12 +4,12 @@
 }
 
 :root{
-    --VerdeFote: #ffff;
-    --VerdeFraco:#88ff00 ;
-    --Bege: #770000;
-
+    --VerdeFote: #0F6939;
+    --VerdeFraco:#83C341 ;
+    --Bege: #f5deb8;
 }
 
 body{
     background-image: url(img/textura.jpg);
 }
+
