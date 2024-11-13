@@ -11,14 +11,14 @@
 
 section{
     margin: 2vw;
-    background-color: var(--VerdeForte);
+   
     
 
 }
 body{
     background-image: url(img/textura.jpg);
     font-family:"Montserrat Alternates", sans-serif;;
-    background-color: var(--VerdeForte);
+    
 }
 
 h3{
@@ -37,6 +37,7 @@ p{
     font-size: 16px;
     text-align: justify;
     border-radius: 10px;
+    background-color: var(--VerdeForte);
 
 }
 
