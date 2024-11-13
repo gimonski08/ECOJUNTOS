@@ -14,7 +14,7 @@ body{
 }
 
 h3{
-
+padding: 2vw;
 background-color: var(--VerdeFote);
 color:var(--Bege);
 text-align: center;
