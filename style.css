@@ -46,6 +46,9 @@ justify-content: center;
 }
 
 .logo{
-    width: 20vw;
-    height: 20vw;
+    height: 70vw;
+}
+
+.nome{
+    font-size: 56px;
 }
