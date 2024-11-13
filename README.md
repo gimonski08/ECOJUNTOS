@@ -1,0 +1,2 @@
+# ECOJUNTOS
+O ECO JUNTOS é um projeto que une cidadania e meio ambiente, criando uma Cooperativa de Reciclagem Escolar inspirada em práticas canadenses. A iniciativa envolve a separação de resíduos da escola em três categorias: coleta de prefeitura, compostagem e reutilização para atividades como horta, jardinagem e oficinas de artes. O projeto inclui também oficinas educativas e incentiva o aprendizado de inglês. 
