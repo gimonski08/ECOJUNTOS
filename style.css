@@ -87,10 +87,10 @@ section{
     font-weight: 600;
 
 }
-.menu_itens{
+a{
     font-size: 24px;
 }
-.menu_itens:hover{
+a:hover{
     font-size:36px ;
     color: var(--Bege)
 }
