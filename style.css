@@ -27,6 +27,7 @@ border-radius: 10px;
 }
 
 p{
+    color: var(--Bege);
     margin: 1vw;
     padding:2vw;
     font-size: 16px;
