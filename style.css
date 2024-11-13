@@ -79,7 +79,7 @@ section{
     background-color: var(--VerdeFraco);
     color: var(--VerdeForte);
     list-style: none;
-    justify-content: space-between;
+    justify-content:space-evenly;
     font-weight: 600;
 
 }
