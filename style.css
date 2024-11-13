@@ -78,7 +78,7 @@ section{
     background-color: var(--VerdeFraco);
     color: var(--VerdeForte);
     list-style: none;
-    text-transform: uppercase;
     justify-content: space-between;
+    font-weight: 600;
 
 }
