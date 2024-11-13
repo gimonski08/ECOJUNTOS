@@ -39,6 +39,7 @@ h4,h5{
 
 
 .cabecalho{
+    flex-direction: column;
 display: flex;
 align-items: center;
 justify-content: center;
