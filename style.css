@@ -73,6 +73,7 @@ section{
     font-size: 56px;
 }
 .menu{
+    width: 100vw;
     display: flex;
     gap: 2vw;
     background-color: var(--VerdeFraco);
