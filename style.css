@@ -75,7 +75,7 @@ section{
 .menu{
     padding: 2vw;
     font-size: 36px;
-    width: 100vw;
+    width: 90vw;
     display: flex;
     gap: 2vw;
     background-color: var(--VerdeFraco);
