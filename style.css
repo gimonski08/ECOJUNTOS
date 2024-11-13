@@ -61,6 +61,7 @@ div{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: var(--VerdeForte);
 }
 .cabecalho{
     height: 100vh;
@@ -101,7 +102,7 @@ a:hover{
     color: var(--Bege)
 }
 .apresentacao_imagem2{
-    height: 50vw;
+    height: 35vw;
     padding: 2vw;
     background-color: var(--VerdeForte);
 }
