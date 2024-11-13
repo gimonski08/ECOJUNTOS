@@ -2,3 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
+
+:root{
+    --VerdeFote: #ffff;
+    --VerdeFraco:#88ff00 ;
+    --Bege: #770000;
+
+}
+
+body{
+    background-image: url(img/textura.jpg);
+}
