@@ -10,7 +10,13 @@
 }
 
 body{
-    background-color: var(--Bege);
     background-image: url(img/textura.jpg);
 }
 
+h2{
+background-color: var(--VerdeFote);
+color:var(--VerdeFraco);
+text-align: center;
+
+
+}
