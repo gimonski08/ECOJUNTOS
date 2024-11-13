@@ -78,4 +78,6 @@ section{
     background-color: var(--VerdeFraco);
     color: var(--VerdeForte);
     list-style: none;
+    text-transform: uppercase;
+    
 }
