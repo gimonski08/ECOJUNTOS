@@ -36,3 +36,14 @@ h4,h5{
 
 
 }
+
+
+.cabecalho{
+display: flex;
+
+}
+
+.logo{
+    width: 20vw;
+    height: 20vw;
+}
