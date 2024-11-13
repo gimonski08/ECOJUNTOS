@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+
 }
 
 :root{
@@ -15,13 +16,14 @@ body{
     
 }
 
-h3{
+a,h3{
 margin: 1vw;
 font-size: 36px;
 padding: 2vw;
 background-color: var(--VerdeFraco);
 color:var(--VerdeForte);
 text-align: center;
+text-decoration: none;
 
 
 }
