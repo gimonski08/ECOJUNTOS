@@ -29,12 +29,12 @@ text-decoration: none;
 }
 
 p{
+    height:90vw;
     color: var(--Bege);
     margin: 1vw;
     padding:2vw;
     font-size: 20px;
     text-align: justify;
-   height:90vw;
     background-color: var(--VerdeForte);
     font-weight: 400;
 
