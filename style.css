@@ -79,5 +79,6 @@ section{
     color: var(--VerdeForte);
     list-style: none;
     text-transform: uppercase;
-    
+    justify-content: space-between;
+
 }
