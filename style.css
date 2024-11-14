@@ -59,7 +59,8 @@ section{
     
 }
 div{
-    display: none;
+    width: 60vw;
+    text-align: justify;
     align-items: normal;
     justify-content: left;
     background-color: var(--VerdeForte);
