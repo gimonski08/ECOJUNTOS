@@ -76,13 +76,13 @@ div{
 }
 
 .logo{
-    height: 30vw;
+    height: 10vw;
 }
 
 .nome{
     color: var(--VerdeForte);
     padding:0px;
-    font-size: 36px;
+    font-size: 28px;
 }
 .menu{
     padding: 2vw;
