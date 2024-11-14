@@ -60,7 +60,7 @@ section{
 }
 div{
     display: flex;
-    align-items: center;
+    align-items: normal;
     justify-content: center;
     background-color: var(--VerdeForte);
     margin: 1vw;
