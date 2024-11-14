@@ -32,7 +32,7 @@ p{
    
     color: var(--Bege);
     margin: 1vw;
-    padding:6vw;
+    line-height-step:2vw;
     font-size: 16px;
     text-align: justify;
     background-color: var(--VerdeForte);
