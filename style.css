@@ -33,7 +33,7 @@ p{
     color: var(--Bege);
     margin: 1vw;
     padding:2vw;
-    font-size: 12px;
+    font-size: 16px;
     text-align: justify;
     background-color: var(--VerdeForte);
     font-weight: 400;
@@ -81,7 +81,7 @@ div{
 .nome{
     color: var(--VerdeForte);
     padding:0px;
-    font-size: 56px;
+    font-size: 36px;
 }
 .menu{
     padding: 2vw;
@@ -97,7 +97,7 @@ div{
 
 }
 a{
-    font-size: 12px;
+    font-size: 16px;
 }
 a:hover{
     font-size:28px ;
