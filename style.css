@@ -61,8 +61,6 @@ section{
 div{
     display: list-item;
     align-items: stretch;
-    display: flex;
-    align-items: baseline;
     justify-content: left;
     background-color: var(--VerdeForte);
     margin: 1vw;
