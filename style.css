@@ -18,7 +18,7 @@ body{
 
 a,h3{
 margin: 1vw;
-font-size: 36px;
+font-size: 28px;
 padding: 2vw;
 background-color: var(--VerdeFraco);
 color:var(--VerdeForte);
@@ -33,7 +33,7 @@ p{
     color: var(--Bege);
     margin: 1vw;
     padding:2vw;
-    font-size: 20px;
+    font-size: 12px;
     text-align: justify;
     background-color: var(--VerdeForte);
     font-weight: 400;
@@ -42,7 +42,7 @@ p{
 
 h4,h5{
     margin: 1vw;
-    font-size: 32px;
+    font-size: 20px;
     padding: 2vw;
     background-color: var(--VerdeFraco);
     color:var(--VerdeForte);
@@ -85,7 +85,7 @@ div{
 }
 .menu{
     padding: 2vw;
-    font-size: 36px;
+    font-size: 20px;
     width: 93vw;
     display: flex;
     gap: 2vw;
@@ -97,10 +97,10 @@ div{
 
 }
 a{
-    font-size: 24px;
+    font-size: 12px;
 }
 a:hover{
-    font-size:36px ;
+    font-size:28px ;
     color: var(--Bege)
 }
 .apresentacao_imagem2{
