@@ -59,6 +59,8 @@ section{
     
 }
 div{
+    display: list-item;
+    align-items: stretch;
     display: flex;
     align-items: baseline;
     justify-content: left;
