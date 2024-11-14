@@ -59,10 +59,8 @@ section{
     
 }
 div{
-    width: 80%;
-    text-align: justify;
-    display: list-item;
-    align-items: baseline;
+    display: none;
+    align-items: normal;
     justify-content: left;
     background-color: var(--VerdeForte);
     margin: 1vw;
